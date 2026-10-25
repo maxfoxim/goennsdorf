@@ -1,0 +1,12 @@
+# Was soll rein
+- [ ] Lisa
+- [ ] Diska
+- [ ] Restaurant
+- [ ] Dienstleistungen
+	- [ ] Lisas Öle
+	- [ ] Massage
+- [ ] Handwerker
+	- [ ] Elekro
+- [ ] Sternwarte
+- [ ] Vereinszentrum
+- [ ] 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Media.md",
+                "file": "Sonstiges/Sternwarte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Social Media"
+              "title": "Sternwarte"
             }
           }
         ],
@@ -217,6 +217,23 @@
   },
   "active": "e707c5af38f6dbd9",
   "lastOpenFiles": [
+    "Spielplätze/Ganz oben.md",
+    "Sonstiges/Sternwarte.md",
+    "Spielplätze/Kindergarten.md",
+    "Sonstiges/Das eine Restaurant.md",
+    "Ankündigungen.md",
+    "Sport/Wanderrouten.md",
+    "Sport",
+    "Sonstiges/Diska.md",
+    "Sonstiges/Vereinszentrum.md",
+    "Sonstiges/Feuerwehr.md",
+    "Impressum.md",
+    "Sonstiges",
+    "Social Media/Unbenannt.md",
+    "Spielplätze/Mitte.md",
+    "Spielplätze/Nordgönnsdorf.md",
+    "Bilder",
+    "Social Media.md",
     "Obsidian/Gönnsdorf_Website/Umsetzung/Umsetzung.md",
     "Obsidian/Gönnsdorf_Website/index.md",
     "Obsidian/Gönnsdorf_Website/Umsetzung",
@@ -224,10 +241,6 @@
     "Obsidian/Gönnsdorf_Website/Brainstorm.md",
     "Obsidian/Gönnsdorf_Website",
     "Obsidian",
-    "Ankündigungen.md",
-    "Social Media.md",
-    "Impressum.md",
-    "Spielplätze/Nordgönnsdorf.md",
     "Spielplätze",
     "Dienstleistungen/Kindergarten Gönnsdorfer Spatzenland.md",
     "Brainstorm.md",

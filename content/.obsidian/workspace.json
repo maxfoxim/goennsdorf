@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Media.md",
+                "file": "Sonstiges/Marmeladenstand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Social Media"
+              "title": "Marmeladenstand"
             }
           }
         ],
@@ -217,14 +217,20 @@
   },
   "active": "e707c5af38f6dbd9",
   "lastOpenFiles": [
-    "Bilder/DSC00428.jpeg",
-    "Social Media.md",
+    "FAQ.md",
+    "Sonstiges/Marmeladenstand.md",
+    "Ferienunterkünfte",
+    "Social Media/Social Media Accounts aus Gönnsdorf.md",
+    "Sonstiges/Gasthaus zum Hochland.md",
+    "Sonstiges/DHL Paketstation.md",
+    "Sonstiges/Fleischerei.md",
+    "Sonstiges/Bäckerei.md",
     "index.md",
+    "Social Media.md",
+    "Bilder/DSC00428.jpeg",
     "Impressum.md",
     "Ankündigungen.md",
     "Dienstleistungen/Kindergarten Gönnsdorfer Spatzenland.md",
-    "Social Media/Unbenannt.md",
-    "Sonstiges/Das eine Restaurant.md",
     "Sonstiges/Diska.md",
     "Sonstiges/Feuerwehr.md",
     "Sonstiges/Foto Fuchs.md",
@@ -243,15 +249,10 @@
     "Obsidian/Gönnsdorf_Website/Umsetzung/Umsetzung.md",
     "Obsidian/Gönnsdorf_Website/index.md",
     "Obsidian/Gönnsdorf_Website/Umsetzung",
-    "Obsidian/Gönnsdorf_Website/Checkliste KI.md",
-    "Obsidian/Gönnsdorf_Website/Brainstorm.md",
     "Obsidian/Gönnsdorf_Website",
     "Obsidian",
     "Spielplätze",
-    "Brainstorm.md",
     "Unser Gönnsdorf ev",
-    "Social Media",
-    "Dienstleistungen",
-    "Checkliste KI.md"
+    "Social Media"
   ]
 }

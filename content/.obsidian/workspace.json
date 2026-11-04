@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sonstiges/Marmeladenstand.md",
+                "file": "Social Media/Social Media Accounts aus Gönnsdorf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marmeladenstand"
+              "title": "Social Media Accounts aus Gönnsdorf"
             }
           }
         ],
@@ -194,6 +194,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e8c9e7d630cde164",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -215,36 +225,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e707c5af38f6dbd9",
+  "active": "c98ca9244135a979",
   "lastOpenFiles": [
-    "FAQ.md",
+    "Spielplätze/Mitte.md",
+    "Impressum.md",
+    "Ankündigungen.md",
+    "Spielplätze/Neben der Wiese.md",
+    "Spielplätze/Am Kindergarten.md",
+    "Spielplätze/Gegenüber Sternwarte.md",
+    "Sonstiges/Vereinszentrum.md",
+    "Sonstiges/Sternwarte.md",
+    "Sonstiges/Öle bei Lisa.md",
+    "Sonstiges/Kosmetik Studio.md",
+    "Sonstiges/Gasthaus zum Hochland.md",
+    "Sonstiges/Fleischerei.md",
+    "Sonstiges/Feuerwehr.md",
+    "Sonstiges/Diska.md",
+    "Sonstiges/Bäckerei.md",
+    "Sonstiges/DHL Paketstation.md",
+    "Sonstiges/Foto Fuchs.md",
     "Sonstiges/Marmeladenstand.md",
+    "FAQ.md",
     "Ferienunterkünfte",
     "Social Media/Social Media Accounts aus Gönnsdorf.md",
-    "Sonstiges/Gasthaus zum Hochland.md",
-    "Sonstiges/DHL Paketstation.md",
-    "Sonstiges/Fleischerei.md",
-    "Sonstiges/Bäckerei.md",
     "index.md",
     "Social Media.md",
     "Bilder/DSC00428.jpeg",
-    "Impressum.md",
-    "Ankündigungen.md",
     "Dienstleistungen/Kindergarten Gönnsdorfer Spatzenland.md",
-    "Sonstiges/Diska.md",
-    "Sonstiges/Feuerwehr.md",
-    "Sonstiges/Foto Fuchs.md",
-    "Sonstiges/Kosmetik Studio.md",
-    "Sonstiges/Sternwarte.md",
-    "Sonstiges/Vereinszentrum.md",
-    "Sonstiges/Öle bei Lisa.md",
-    "Spielplätze/Ganz oben.md",
-    "Spielplätze/Kindergarten.md",
     "Sport/Wanderrouten.md",
     "Sport",
     "Sonstiges",
-    "Spielplätze/Mitte.md",
-    "Spielplätze/Nordgönnsdorf.md",
     "Bilder",
     "Obsidian/Gönnsdorf_Website/Umsetzung/Umsetzung.md",
     "Obsidian/Gönnsdorf_Website/index.md",

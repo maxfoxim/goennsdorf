@@ -1,3 +1,0 @@
-# Spielanlagen
-- Rutsche
-- Schaukel

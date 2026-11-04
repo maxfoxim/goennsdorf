@@ -1,0 +1,3 @@
+- Tischtennisplatte
+- Balancerouten
+- große Wiesenfläche

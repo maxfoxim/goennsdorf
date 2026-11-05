@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ferienunterkünfte/Ferienwohnungen Hochland.md",
+                "file": "ÖPNV/Buslinien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferienwohnungen Hochland"
+              "title": "Buslinien"
             }
           }
         ],
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.76171875
   },
   "right": {
     "id": "c60e9105091a7092",
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,35 +225,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8c9e7d630cde164",
+  "active": "e707c5af38f6dbd9",
   "lastOpenFiles": [
-    "Sonstiges/DHL Paketstation.md",
+    "Ferienunterkünfte/Ferienwohnung Gudrun & Torsten Riedel.md",
+    "Geschäfte",
     "Ferienunterkünfte/Ferienwohnungen Hochland.md",
-    "Sonstiges/Bäckerei.md",
-    "Sonstiges/Fleischerei.md",
-    "Sonstiges/Diska.md",
-    "Sonstiges/Foto Fuchs.md",
-    "Social Media/Social Media Accounts aus Gönnsdorf.md",
-    "Social Media.md",
-    "index.md",
-    "Unser Gönnsdorf ev/Unser Gönnsdorf ev.md",
-    "Sonstiges/Vereinszentrum.md",
-    "Sonstiges/Marmeladenstand.md",
-    "Sonstiges/Öle bei Lisa.md",
-    "ÖPNV/Straßenbahn.md",
-    "ÖPNV/Buslinien.md",
-    "ÖPNV",
-    "Spielplätze/Mitte.md",
-    "Impressum.md",
-    "Ankündigungen.md",
-    "Spielplätze/Neben der Wiese.md",
-    "Spielplätze/Am Kindergarten.md",
-    "Spielplätze/Gegenüber Sternwarte.md",
     "Sonstiges/Sternwarte.md",
-    "Sonstiges/Kosmetik Studio.md",
+    "Sonstiges/Sport- und Freizeittreff.md",
+    "Dienstleistungen/Kindergarten Gönnsdorfer Spatzenland.md",
+    "Dienstleistungen/Architekturbüro.md",
+    "Dienstleistungen/Ingenieurbüro.md",
+    "Dienstleistungen/Steuerberatung.md",
+    "Dienstleistungen/Baubüro.md",
+    "Geschäfte/Holz Dietze.md",
+    "Dienstleistungen/Massage.md",
+    "Dienstleistungen/Physiotherapie.md",
+    "Dienstleistungen/Haarstudio.md",
     "Sonstiges/Gasthaus zum Hochland.md",
-    "Sonstiges/Feuerwehr.md",
-    "FAQ.md",
+    "Dienstleistungen/Foto Fuchs.md",
+    "Geschäfte/Bäckerei.md",
+    "Sport/Wanderrouten.md",
+    "Impressum.md",
+    "Sonstiges/Marmeladenstand.md",
+    "Spielplätze/Minimal.md",
+    "Spielplätze/Mitte.md",
+    "Ankündigungen.md",
+    "Sonstiges/DHL Paketstation.md",
+    "Geschäfte/Fleischerei.md",
+    "Geschäfte/Diska.md",
+    "ÖPNV",
     "Ferienunterkünfte",
     "Bilder/DSC00428.jpeg",
     "Sport",
@@ -262,7 +262,6 @@
     "Obsidian/Gönnsdorf_Website/Umsetzung",
     "Obsidian/Gönnsdorf_Website",
     "Obsidian",
-    "Spielplätze",
-    "Unser Gönnsdorf ev"
+    "Spielplätze"
   ]
 }

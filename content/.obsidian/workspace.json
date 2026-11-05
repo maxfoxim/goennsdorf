@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ferienunterkünfte/Ferienwohnung Gudrun & Torsten Riedel.md",
+                "file": "ÖPNV/Buslinien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferienwohnung Gudrun & Torsten Riedel"
+              "title": "Buslinien"
             }
           }
         ],
@@ -227,32 +227,32 @@
   },
   "active": "e707c5af38f6dbd9",
   "lastOpenFiles": [
+    "Ferienunterkünfte/Ferienwohnung Gudrun & Torsten Riedel.md",
+    "Geschäfte",
     "Ferienunterkünfte/Ferienwohnungen Hochland.md",
     "Sonstiges/Sternwarte.md",
     "Sonstiges/Sport- und Freizeittreff.md",
     "Dienstleistungen/Kindergarten Gönnsdorfer Spatzenland.md",
-    "Sonstiges/Architekturbüro.md",
-    "Sonstiges/Ingenieurbüro.md",
-    "Sonstiges/Steuerberatung.md",
-    "Sonstiges/Baubüro.md",
-    "Sonstiges/Holz Dietze.md",
-    "Sonstiges/Massage.md",
-    "Sonstiges/Physiotherapie.md",
-    "Sonstiges/Haarstudio.md",
+    "Dienstleistungen/Architekturbüro.md",
+    "Dienstleistungen/Ingenieurbüro.md",
+    "Dienstleistungen/Steuerberatung.md",
+    "Dienstleistungen/Baubüro.md",
+    "Geschäfte/Holz Dietze.md",
+    "Dienstleistungen/Massage.md",
+    "Dienstleistungen/Physiotherapie.md",
+    "Dienstleistungen/Haarstudio.md",
     "Sonstiges/Gasthaus zum Hochland.md",
-    "Sonstiges/Foto Fuchs.md",
-    "Sonstiges/Bäckerei.md",
+    "Dienstleistungen/Foto Fuchs.md",
+    "Geschäfte/Bäckerei.md",
     "Sport/Wanderrouten.md",
     "Impressum.md",
     "Sonstiges/Marmeladenstand.md",
     "Spielplätze/Minimal.md",
     "Spielplätze/Mitte.md",
     "Ankündigungen.md",
-    "Ferienunterkünfte/Ferienwohnung Gudrun & Torsten Riedel.md",
     "Sonstiges/DHL Paketstation.md",
-    "Sonstiges/Fleischerei.md",
-    "Sonstiges/Diska.md",
-    "Social Media/Social Media Accounts aus Gönnsdorf.md",
+    "Geschäfte/Fleischerei.md",
+    "Geschäfte/Diska.md",
     "ÖPNV",
     "Ferienunterkünfte",
     "Bilder/DSC00428.jpeg",
@@ -262,7 +262,6 @@
     "Obsidian/Gönnsdorf_Website/Umsetzung",
     "Obsidian/Gönnsdorf_Website",
     "Obsidian",
-    "Spielplätze",
-    "Unser Gönnsdorf ev"
+    "Spielplätze"
   ]
 }

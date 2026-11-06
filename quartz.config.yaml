@@ -41,6 +41,11 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: ./plugins/leaflet-map
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 90
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -272,6 +277,11 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    options:
+      enableCopyTool: false
     order: 50
 layout:
   groups:

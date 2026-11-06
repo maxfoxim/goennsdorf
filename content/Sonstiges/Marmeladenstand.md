@@ -9,4 +9,6 @@
 
 # Beschreibung
 
+Ein schöner Selbstbedienungsschrank mit leckeren Marmeladen vieler Sorten. 
+
 # Bilder

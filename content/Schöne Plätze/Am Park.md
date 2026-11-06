@@ -1,0 +1,4 @@
+![[PXL_20261106_151256268.MP.jpg]]
+
+# Wachwitzer Teich
+![[PXL_20261106_151302743.MP.jpg]]

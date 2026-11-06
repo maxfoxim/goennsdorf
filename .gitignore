@@ -4,3 +4,7 @@ Obsidian/.DS_Store
 /docs
 /node_modules
 content/.DS_Store
+
+# Generated plugin installs (local symlinks, cloned plugins)
+/.quartz/plugins/*
+!/.quartz/plugins/index.ts

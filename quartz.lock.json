@@ -1,12 +1,6 @@
 {
   "version": "1.0.0",
   "plugins": {
-    "leaflet-map": {
-      "source": "./plugins/leaflet-map",
-      "resolved": "/Users/stephan/Desktop/Gönnsdorf_Website/quartz/plugins/leaflet-map",
-      "commit": "local",
-      "installedAt": "2026-11-06T20:18:07.945Z"
-    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",

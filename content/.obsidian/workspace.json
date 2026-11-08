@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spielplätze/Gegenüber Sternwarte.md",
+                "file": "Spielplätze/Mitte.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gegenüber Sternwarte"
+              "title": "Mitte"
             }
           }
         ],
@@ -241,6 +241,15 @@
   },
   "active": "fb22e58e8b8221ec",
   "lastOpenFiles": [
+    "Bilder/PXL_20261108_132558716.jpg",
+    "Bilder/PXL_20261108_132554202.jpg",
+    "Bilder/PXL_20261108_132549119.jpg",
+    "Sonstiges/Sport- und Freizeittreff.md",
+    "Sonstiges/Öle bei Lisa.md",
+    "Sonstiges/Marmeladenstand.md",
+    "Bilder/PXL_20261107_082614785.jpg",
+    "Sonstiges/Gasthaus zum Hochland.md",
+    "Spielplätze/Gegenüber Sternwarte.md",
     "Bilder/PXL_20261107_133644897.jpg",
     "Bilder/PXL_20261107_133652184.jpg",
     "Bilder/PXL_20261107_133654274.jpg",
@@ -250,15 +259,9 @@
     "Spielplätze/Neben der Wiese.md",
     "Bilder/PXL_20261107_140016770.jpg",
     "Bilder/PXL_20261107_140037498.jpg",
-    "Bilder/PXL_20261107_140045657.jpg",
     "Spielplätze/Mitte.md",
     "Spielplätze/Am Kindergarten.md",
-    "Bilder/PXL_20261107_140627443.jpg",
-    "Bilder/PXL_20261107_140612682.jpg",
-    "Bilder/PXL_20261107_140657591.jpg",
     "Karte.md",
-    "Sonstiges/Marmeladenstand.md",
-    "Sonstiges/Öle bei Lisa.md",
     "Sonstiges/Sternwarte.md",
     "Schöne Plätze/Am Park.md",
     "Schöne Plätze",
@@ -268,7 +271,6 @@
     "Ferienunterkünfte/Ferienwohnung Gudrun & Torsten Riedel.md",
     "Geschäfte",
     "Ferienunterkünfte/Ferienwohnungen Hochland.md",
-    "Sonstiges/Sport- und Freizeittreff.md",
     "Dienstleistungen/Kindergarten Gönnsdorfer Spatzenland.md",
     "Dienstleistungen/Architekturbüro.md",
     "Dienstleistungen/Ingenieurbüro.md",
@@ -277,8 +279,6 @@
     "Geschäfte/Holz Dietze.md",
     "Dienstleistungen/Massage.md",
     "Dienstleistungen/Physiotherapie.md",
-    "Dienstleistungen/Haarstudio.md",
-    "Sonstiges/Gasthaus zum Hochland.md",
     "ÖPNV",
     "Ferienunterkünfte",
     "Sport",

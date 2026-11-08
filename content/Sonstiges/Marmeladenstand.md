@@ -12,3 +12,5 @@
 Ein schöner Selbstbedienungsschrank mit leckeren Marmeladen vieler Sorten. 
 
 # Bilder
+
+![[PXL_20261107_082614785.jpg]]

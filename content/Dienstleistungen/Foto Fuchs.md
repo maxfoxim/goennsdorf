@@ -1,12 +1,13 @@
 
-| Eigenschaft | Wert                       |
-| ----------- | -------------------------- |
-| Name        | Foto Fuchs                 |
-| Inhaber     | Stephan Fuchs              |
-| Typ         | Fotograf                   |
-| Email       | dr.stephan.fuchs AT gmx.de |
-| Adresse     | Gadelsdorfer Weg           |
-| Telefon     | gern auf Anfrage           |
+| Eigenschaft | Wert                                                 |
+| ----------- | ---------------------------------------------------- |
+| Name        | Foto Fuchs                                           |
+| Inhaber     | Stephan Fuchs                                        |
+| Typ         | Fotograf                                             |
+| Email       | dr.stephan.fuchs AT gmx.de                           |
+| Adresse     | Gadelsdorfer Weg                                     |
+| Telefon     | gern auf Anfrage                                     |
+| Website     | [500px.com/p/maxfoxim](https://500px.com/p/maxfoxim) |
 
 Stephan Fuchs ist ambitionierter Hobbyfotograf. Er liest viel über Fotografie und hat schon einige Hochzeiten oder Familienfotos fotografiert. Beispiele seines Portfolios siehe unten. 
 

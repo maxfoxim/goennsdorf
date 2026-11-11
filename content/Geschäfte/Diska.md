@@ -1,11 +1,12 @@
-| Eigenschaft | Wert                                                        |
-| ----------- | ----------------------------------------------------------- |
-| Name        | Supermarkt (EDEKA), Backshop, Bargeldauszahlung, Parkplätze |
-| Inhaber     |                                                             |
-| Typ         |                                                             |
-| Email       |                                                             |
-| Adresse     | Pappritzer Straße 22                                        |
-| Telefon     | 0351 2106658                                                |
+| Eigenschaft | Wert                                                         |
+| ----------- | ------------------------------------------------------------ |
+| Name        | Supermarkt (EDEKA), Backshop, Bargeldauszahlung, Parkplätze  |
+| Inhaber     |                                                              |
+| Typ         |                                                              |
+| Email       |                                                              |
+| Adresse     | Pappritzer Straße 22                                         |
+| Telefon     | 0351 2106658                                                 |
+| Website     | [diska.de](https://diska.de/stores/diska-dresden-goennsdorf) |
 
 # Beschreibung
 
